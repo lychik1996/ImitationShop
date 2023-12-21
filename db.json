@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "name": "sdf",
+      "info": "sdf",
+      "favorite": false,
+      "id": 5
+    },
+    {
+      "name": "q325",
+      "info": "13dsf",
+      "favorite": false,
+      "id": 9
+    },
+    {
+      "name": "234",
+      "info": "243234",
+      "favorite": false,
+      "id": 10
+    },
+    {
+      "name": "fdsd",
+      "info": "fsdf",
+      "favorite": false,
+      "id": 11,
+      "basket": false
+    },
+    {
+      "name": "asdsadasd",
+      "info": "qewgjghk",
+      "favorite": true,
+      "id": 12,
+      "basket": false
+    },
+    {
+      "name": "etert",
+      "info": "ertertert",
+      "favorite": true,
+      "id": 13,
+      "basket": false
+    },
+    {
+      "name": "sdf",
+      "info": "sdf",
+      "favorite": true,
+      "id": 14,
+      "basket": false
+    },
+    {
+      "name": "lk;lkjj",
+      "info": "mkjblkjbkjnlk",
+      "favorite": true,
+      "id": 15,
+      "basket": true
+    }
+  ]
+}
